@@ -1,0 +1,22 @@
+{
+  "name": "testando-typescript",
+  "version": "1.0.0",
+  "description": "Esse é o meu primeiro repositório com a linguagem TypeScript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquileseomundodigital/testando-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquileseomundodigital/testando-typescript/issues"
+  },
+  "homepage": "https://github.com/aquileseomundodigital/testando-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
