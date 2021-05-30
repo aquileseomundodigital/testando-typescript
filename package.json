@@ -4,7 +4,7 @@
   "description": "Esse é o meu primeiro repositório com a linguagem TypeScript!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run-script": "echo Hello World!"
   },
   "repository": {
     "type": "git",
